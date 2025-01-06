@@ -3,4 +3,4 @@ docker-compose build
 docker-compose up
 
 
-http://localhost:5000/api/KeyValue/test
+http://localhost:8080/api/KeyValue/test
